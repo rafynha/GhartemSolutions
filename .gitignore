@@ -3,3 +3,11 @@
 ################################################################################
 
 /Templates/GhartemSlolutions.Templates.ApiBasic/packages
+/Templates/GhartemSlolutions.Templates.ApiBasic/.vs/GhartemSlolutions.Templates.ApiBasic
+/Templates/GhartemSlolutions.Templates.ApiBasic/GhartemSlolutions.Templates.ApiBasic.Api/obj
+/Templates/GhartemSlolutions.Templates.ApiBasic/GhartemSlolutions.Templates.ApiBasic.Api/bin
+/Templates/GhartemSlolutions.Templates.ApiBasic/GhartemSlolutions.Templates.ApiBasic.Api.Tests/obj
+/Templates/GhartemSlolutions.Templates.ApiBasic/GhartemSolutions.Templates.ApiBasic.App/obj
+/Templates/GhartemSlolutions.Templates.ApiBasic/GhartemSolutions.Templates.ApiBasic.Domain/obj
+/Templates/GhartemSlolutions.Templates.ApiBasic/GhartemSolutions.Templates.ApiBasic.Insfrastructure/obj
+/.vs

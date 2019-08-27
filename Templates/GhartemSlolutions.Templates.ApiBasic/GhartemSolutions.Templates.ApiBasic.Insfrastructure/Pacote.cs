@@ -61,6 +61,7 @@ namespace GhartemSolutions.Templates.ApiBasic.Insfrastructure
                     pacote.Localidade.Origem = col[0].InnerText;
                     pacote.Localidade.Destino = col.Count > 1 ? col[1].InnerText : null;
                     retorno.Add(pacote);
+                    pacote = new Domain.Model.Pacote.Pacote();
                 }
             }
             return retorno;

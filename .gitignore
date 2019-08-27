@@ -11,3 +11,6 @@
 /Templates/GhartemSlolutions.Templates.ApiBasic/GhartemSolutions.Templates.ApiBasic.Domain/obj
 /Templates/GhartemSlolutions.Templates.ApiBasic/GhartemSolutions.Templates.ApiBasic.Insfrastructure/obj
 /.vs
+/Templates/GhartemSlolutions.Templates.ApiBasic/GhartemSolutions.Templates.ApiBasic.App/bin
+/Templates/GhartemSlolutions.Templates.ApiBasic/GhartemSolutions.Templates.ApiBasic.Domain/bin
+/Templates/GhartemSlolutions.Templates.ApiBasic/GhartemSolutions.Templates.ApiBasic.Insfrastructure/bin

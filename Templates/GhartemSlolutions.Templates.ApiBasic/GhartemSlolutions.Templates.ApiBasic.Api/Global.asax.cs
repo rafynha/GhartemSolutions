@@ -18,6 +18,7 @@ namespace GhartemSolutions.Templates.ApiBasic.Api
         protected void Application_Start()
         {
             SwaggerConfig.Register();
+            AutofacConfig.Register(GlobalConfiguration.Configuration);
             GlobalConfiguration.Configure(WebApiConfig.Register);
         }
     }
